@@ -4,6 +4,11 @@
 ## Major functions
 ### The map has six points of interest that are marked and, when clicked on, will describe each location. There is a map description as well as a link to the Explore Boone website page about the Boone Greenway Trail.
 ## Libraries
-### The map was made using JavaScript.
+### Leaflet.js (for map creation and customization)
+### jQuery (for handling DOM manipulation and event handling)
+### Leaflet.css, and Google Fonts (stylesheets for the design of the user interface)
 ## Data sources of the Map
-### I used geoJson.io to create the walking path with points of interest and converted the KML file to GPX. I downloaded the base map from a Leaflet demo. 
+### Google Maps
+### Website for Boone Greenway
+
+
